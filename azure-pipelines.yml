@@ -34,4 +34,4 @@ steps:
 
 - script: 
     HelloWorldConsoleApp.exe
-  displayName: 'Run Hello World App'
+  displayName: 'Run Hello World App 2'
